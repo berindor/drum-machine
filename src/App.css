@@ -47,6 +47,7 @@ body,
   background-color: var(--background-color-dark);
   color: var(--color-for-dark);
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .drum-pad:hover,
@@ -69,3 +70,4 @@ p {
   text-align: center;
   margin: 0;
 }
+
